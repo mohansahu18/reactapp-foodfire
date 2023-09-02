@@ -2,7 +2,7 @@ export const IMG_CND_URL = "https://res.cloudinary.com/swiggy/image/upload/fl_lo
 
 export const ITEM_IMG_CDN_URL = "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/";
 
-export const FETCH_MENU_URL = "https://corsanywhere.herokuapp.com/https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=23.2599333&lng=77.412615&restaurantId="
+export const FETCH_MENU_URL = "https://corsproxy.io/?/https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=23.2599333&lng=77.412615&restaurantId="
 // "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=23.2599333&lng=77.412615&restaurantId="
 
 // shimmer Menu card unit
